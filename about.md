@@ -1,13 +1,13 @@
-# CHIMERA Name
+# NDEBELE DI SANGUE 
 
-This text appears in the overlay opened by the `ABOUT` label. Click `X` to close and return to the 3D view.
-
-Placeholder text for layout testing: Chimera research unfolds across fragmented memories, synthetic anatomies, and speculative rituals that merge archival traces with generated futures. This project explores hybrid embodiment through digital sculpture, moving between mythological residue and machine perception. Each form behaves like a temporary host: unstable, layered, and responsive to context. The narrative remains intentionally open, inviting interpretation through ambiguity and transformation.
-
-
-
-PS: You can use Markdown formatting, for example:
-
-- Bullet lists
-- **Bold text**
-- *Italic text*
+Si narra che, generazioni fa, vivesse una donna Ndebele di nome Zola, stanca del peso dei cerchi di ottone che le cingevano il collo e della vita predefinita dal suo villaggio. Ogni anello aggiunto non era per lei un segno di bellezza, ma una prigione di metallo che la teneva ancorata a terra, costringendola a guardare il mondo da una prospettiva rigida e immobile.
+Una notte, guidata da una rabbia incontrollabile e dal desiderio di una libertà sovrumana, Zola fuggì verso la Foresta degli Spiriti Dimenticati. Lì, maledì la sua forma umana, implorando la terra di trasformarla in qualcosa di potente, qualcosa che potesse vedere sopra le cime degli alberi e difendersi da chiunque cercasse di sottometterla di nuovo.
+La natura acconsentì alla sua richiesta trasformando Zola in una creatura distorta e feroce, il suo collo teso dai cerchi si spezzò e si sdoppiò mutando nelle teste delle due giraffe, in modo tale da osservare tutti a 360°, con una testa osservava il suo futuro e con l’altra guardava il suo passato. Le sue mani stanche di lavorare si trasformarono in rami, per procurarsi da sola il cibo in eterno. Per correre più veloce di qualsiasi umano le sue gambe si unirono in unico arto, terminato da uno zoccolo capace di spaccare la pietra.
+Fu così che Zola diventò la prima Ndebele di sangue, prima e unica creatura immortale.
+Ancora oggi nelle zone d’ombra tra il sogno e la realtà, vive la NDEBELE DI SANGUE. A prima vista, da lontano, la sua silhouette slanciata e l'unica gamba la fanno somigliare a una colonna antica o a un tronco d'albero solitario rimasto in piedi dopo un incendio.
+La creatura è un paradosso vivente. Indossa abiti umani, quasi a voler nascondere la sua origine selvaggia, e si muove con una lentezza ipnotica, dondolando sul suo unico zoccolo. È una creatura profondamente innocua per ore, giorni interi, restando immobile mentre le sue braccia-ramo offrono foglie tenere alle due teste che la coronano. È uno spettacolo che incanta i curiosi, che spesso si avvicinano troppo, convinti di trovarsi di fronte a una divinità della natura pacifica e protettrice.
+Ma la Ndebele di Sangue non è una protettrice; è un sistema di filtraggio biologico. Quando le foglie sui suoi rami iniziano a vibrare senza vento, significa che le sue due teste hanno percepito l'odore del sudore umano.
+Se si sente minacciata o se la fame diventa insopportabile, la sua natura aggressiva esplode:
+Nonostante l'unica gamba, la Ndebele compie balzi a molla incredibili, usando lo zoccolo per frantumare le ossa delle prede con un solo colpo preciso.
+Le due teste di giraffa non masticano solo foglie. Possiedono una forza mandibolare capace di triturare il tessuto umano in pochi istanti. I rami-braccia, in una danza macabra, raccolgono i resti dei corpi e li portano alle bocche gemelle, quasi come se stessero compiendo un rito di offerta.
+Dopo aver mangiato, la Ndebele di Sangue torna nel suo stato di quiete. Le foglie sui suoi rami tornano verdi e rigogliose, nutrite dai sali minerali del corpo appena consumato, in attesa che il prossimo viaggiatore si lasci ingannare dal suo collo lungo e dal suo silenzio solenne.
